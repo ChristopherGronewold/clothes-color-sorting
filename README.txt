@@ -1,7 +1,7 @@
 (1) download python from this link and click the add to path option:
 https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
 
-(2) delete the two DELETE_ME files in input_images and output_colors.
+(2) delete the two DELETE_ME files in the input_images and output_colors folders.
 
 (3) inside the color_sorting folder, click on the file explorer search bar and type 'cmd'
 
