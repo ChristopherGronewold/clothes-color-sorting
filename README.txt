@@ -1,0 +1,17 @@
+(1) download python from this link and click the add to path option:
+https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe
+
+(2) inside the color_sorting folder, click on the file explorer search bar and type 'cmd'
+
+(3) copy and paste these commands into cmd to install required libraries:
+pip install opencv-python
+pip install cvzone
+pip install webcolors
+pip install Pillow
+pip install statistics
+pip install mediapipe
+
+those only need to be installed one time. Now on, to run the program skip steps 1 and 3.
+
+(4) after adding your images into input_images, copy and paste this into cmd to run program:
+python color_sorter.py
